@@ -35,7 +35,7 @@ print_modname() {
   ui_print " "
   ui_print "█𝙐𝙉𝙄𝙑𝙀𝙍𝙎𝘼𝙇█"
   ui_print " "
-  ui_print "▓ 𝙑𝙀𝙍𝙎𝙄𝙊𝙉 : 1.1"
+  ui_print "▓ 𝙑𝙀𝙍𝙎𝙄𝙊𝙉 : 1.2"
   ui_print "▓ 𝘾𝙊𝘿𝙀𝙉𝘼𝙈𝙀 - 𝘽𝘼𝙂"
   ui_print "▓ 𝘿𝙀𝙑𝙄𝘾𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉:"
   sleep 2
@@ -75,7 +75,46 @@ print_modname() {
   ui_print "█ I Am Not Responsible For Any Problems "
   ui_print "█ You Will Face From This MODULE!" 
   ui_print ""
+  ui_print ""
+  ui_print "█Adding Games to Denylist / MagiskHide:"
+  ui_print ""
+  sleep 1.5
+  ui_print "▓Enabling MagiskHide / Denylist.."
+magiskhide disable >/dev/null 2>&1
+magiskhide enable >/dev/null 2>&1
+magisk --denylist enable >/dev/null 2>&1
+sleep 1.5
+ui_print "█𝘿𝙊𝙉𝙀█"
+sleep 1.5
+ui_print ""
+ui_print "█Adding Games please wait..."
+magiskhide add com.tencent.ig >/dev/null 2>&1
+magiskhide add com.epicgames.fortnite >/dev/null 2>&1
+magiskhide add com.vng.pubgmobile >/dev/null 2>&1
+magiskhide add com.pubg.krmobile >/dev/null 2>&1
+magiskhide add com.activision.callofduty.shooter >/dev/null 2>&1
+magiskhide add com.garena.game.codm >/dev/null 2>&1
+magiskhide add com.pubg.newstate >/dev/null 2>&1
+magiskhide add com.plato.android >/dev/null 2>&1
+magiskhide add com.dts.freefireth >/dev/null 2>&1
+magiskhide add com.dts.freefiremax >/dev/null 2>&1
+magiskhide add com.kitkagames.fallbuddies >/dev/null 2>&1
+magiskhide add com.ea.gp.apexlegendsmobilefps >/dev/null 2>&1
+magisk --denylist add com.pubg.newstate >/dev/null 2>&1
+magisk --denylist add com.garena.game.codm >/dev/null 2>&1
+magisk --denylist add com.activision.callofduty.shooter >/dev/null 2>&1
+magisk --denylist add com.pubg.krmobile >/dev/null 2>&1
+magisk --denylist add com.epicgames.fortnite >/dev/null 2>&1
+magisk --denylist add com.tencent.ig >/dev/null 2>&1
+magisk --denylist add com.plato.android >/dev/null 2>&1
+magisk --denylist add com.dts.freefireth >/dev/null 2>&1
+magisk --denylist add com.dts.freefiremax >/dev/null 2>&1
+magisk --denylist add com.kitkagames.fallbuddies >/dev/null 2>&1
+magisk --denylist add com.ea.gp.apexlegendsmobilefps >/dev/null 2>&1
+sleep 3
+ui_print "█Added all Necessary Games!"
   sleep 5
+  ui_print ""
   ui_print ""
 }
 
@@ -92,8 +131,8 @@ on_install() {
   ui_print "▓ Can take a few seconds!"
   unzip -o "$ZIPFILE" 'sysem/*' -d $MODPATH >&2
   unzip -o "$ZIPFILE" 'tmp/*' -d $MODPATH >&2
-  wget -O "/data/local/tmp/CV2Toast.apk" "https://github.com/CRANKV2/Stratosphere_Tweaks/blob/main/CV2Toast.apk?raw=true"
-  pm install /data/local/tmp/CV2Toast.apk
+  wget -O "/data/local/tmp/StratosphereToast.apk" "https://github.com/CRANKV2/CRV2/blob/main/StratosphereToast.apk?raw=true"
+  pm install /data/local/tmp/StratosphereToast.apk
   ui_print " "
   ui_print "█ 𝘿𝙊𝙉𝙀 █ "
 }
