@@ -4,7 +4,7 @@ PROPFILE=true
 POSTFSDATA=false
 LATESTARTSERVICE=true
 CLEANSERVICE=true
-DEBUG=true
+DEBUG=false
 MODDIR=/data/adb/modules
 
 # Construct your list in the following format
@@ -35,7 +35,7 @@ print_modname() {
   ui_print " "
   ui_print "█𝙐𝙉𝙄𝙑𝙀𝙍𝙎𝘼𝙇█"
   ui_print " "
-  ui_print "▓ 𝙑𝙀𝙍𝙎𝙄𝙊𝙉 : 1.2"
+  ui_print "▓ 𝙑𝙀𝙍𝙎𝙄𝙊𝙉 : 1.3"
   ui_print "▓ 𝘾𝙊𝘿𝙀𝙉𝘼𝙈𝙀 - 𝘽𝘼𝙂"
   ui_print "▓ 𝘿𝙀𝙑𝙄𝘾𝙀 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝙏𝙄𝙊𝙉:"
   sleep 2
@@ -55,9 +55,9 @@ print_modname() {
   sleep 1
   ui_print " "
   sleep 1
-  ui_print "▓ Bullet Register & Aim Assist v1.1"
+  ui_print "▓ Bullet Register & Aim Assist"
   sleep 1
-  ui_print "▓ GyroscopeDelay FIXER v1.0"
+  ui_print "▓ GyroscopeDelay FIXER"
   sleep 2
   ui_print " "
   ui_print "█ 𝙄𝙣𝙨𝙩𝙖𝙡𝙡𝙞𝙣𝙜 𝙁𝙤𝙧 $ARCH SDK $API Device..."
@@ -113,9 +113,11 @@ magisk --denylist add com.kitkagames.fallbuddies >/dev/null 2>&1
 magisk --denylist add com.ea.gp.apexlegendsmobilefps >/dev/null 2>&1
 sleep 3
 ui_print "█Added all Necessary Games!"
+  sleep 2
+  ui_print "█For using new PUBG XTREME GRAPHIC"
+  sleep 1.5
+  ui_print "█Type 'su -c PUBGEXTREME' into Termux!"
   sleep 5
-  ui_print ""
-  ui_print ""
 }
 
 

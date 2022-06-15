@@ -1,4 +1,17 @@
 █𝙐𝙉𝙄𝙑𝙀𝙍𝙎𝘼𝙇 𝙐𝙋𝘿𝘼𝙏𝙀█
+▓▓▓▓▓▓ 𝙫𝟏.3 ▓▓▓▓▓▓
+
+█Added PUBG UNIVERSAL XTREME GRAPHIC SCRIPT
+█Type 'su -c PUBGEXTREME into Termux to execute script!
+
+█Some Various Bug fixes!
+
+█Combine with PUBG ULTRA AUDIO MODULE
+█Download Here..: https://apkadmin.com/8tot4eoey804/UltraAudio.zip.html
+
+-------------------------
+
+█𝙐𝙉𝙄𝙑𝙀𝙍𝙎𝘼𝙇 𝙐𝙋𝘿𝘼𝙏𝙀█
 ▓▓▓▓▓▓ 𝙫𝟏.2 ▓▓▓▓▓▓
 
 █Various Tweaks for Stability
@@ -10,7 +23,6 @@
 █Added some new Props for AimAssist and BulletRegister!
 
 -------------------------
-
 
 
 █𝙐𝙉𝙄𝙑𝙀𝙍𝙎𝘼𝙇 𝙐𝙋𝘿𝘼𝙏𝙀█
@@ -32,5 +44,14 @@ Thx to @revWhiteShadow
 
 █Added Starting Notification
 ⇒After rebooting device!
+
+█Added Games to Denylist/MagiskHide!
+incl. 
+NEW GAME APEX!
+Pubg [all versions]
+CODM
+Fortnite
+Free Fire 
+& More!
 
 Stay Fast 😎⚡️
