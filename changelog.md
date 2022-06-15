@@ -1,5 +1,5 @@
 █𝙐𝙉𝙄𝙑𝙀𝙍𝙎𝘼𝙇 𝙐𝙋𝘿𝘼𝙏𝙀█
-▓▓▓▓▓▓ 𝙫𝟏.3 ▓▓▓▓▓▓
+▓▓▓▓▓▓ 𝙫𝟏.𝟑 ▓▓▓▓▓▓
 
 █Added PUBG UNIVERSAL XTREME GRAPHIC SCRIPT
 █Type 'su -c PUBGEXTREME into Termux to execute script!
