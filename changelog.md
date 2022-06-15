@@ -7,7 +7,7 @@
 █Some Various Bug fixes!
 
 █Combine with PUBG ULTRA AUDIO MODULE
-█Download Here..: https://apkadmin.com/8tot4eoey804/UltraAudio.zip.html
+█Avaiable on @AndroidRootModulesCommunity @Telegram
 
 -------------------------
 
