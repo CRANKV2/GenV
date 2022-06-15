@@ -7,12 +7,12 @@
 █Some Various Bug fixes!
 
 █Combine with PUBG ULTRA AUDIO MODULE
-█Avaiable on @AndroidRootModulesCommunity @Telegram
+█Avaiable on @AndroidRootModulesCommunity [Telegram]
 
--------------------------
+━━━━━━━━━━━━━━━━
 
 █𝙐𝙉𝙄𝙑𝙀𝙍𝙎𝘼𝙇 𝙐𝙋𝘿𝘼𝙏𝙀█
-▓▓▓▓▓▓ 𝙫𝟏.2 ▓▓▓▓▓▓
+▓▓▓▓▓▓ 𝐯𝟏.𝟐 ▓▓▓▓▓▓
 
 █Various Tweaks for Stability
 
@@ -22,11 +22,11 @@
 
 █Added some new Props for AimAssist and BulletRegister!
 
--------------------------
+━━━━━━━━━━━━━━━━
 
 
 █𝙐𝙉𝙄𝙑𝙀𝙍𝙎𝘼𝙇 𝙐𝙋𝘿𝘼𝙏𝙀█
-▓▓▓▓▓▓ 𝙫𝟏.𝟏 ▓▓▓▓▓▓
+▓▓▓▓▓▓ 𝐯𝟏.𝟏 ▓▓▓▓▓▓
 
 
 █Redesigned Installer
