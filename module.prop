@@ -1,9 +1,9 @@
 id=BulletAimGyro
 name=[BAG] Lets Kick Some Ass! (UNIVERSAL) 
-version=v1.3
-versionCode=73
+version=v1.4
+versionCode=74
 author=CRANKV2
-description=BulletRegister/Aim Assist/GyroDelayFixer  for [A9, A10, A11, A12/L] Without Changing Any Game Data!!
+description=BulletRegister/Aim Assist/GyroDelayFixer  for [A9 - A12/L] Without Touching Any Game Data!!
 support=https://t.me/AndroidRootModulesCommunity
 minMagisk=20300
 updateJson=https://raw.githubusercontent.com/CRANKV2/BAG/main/module.json
