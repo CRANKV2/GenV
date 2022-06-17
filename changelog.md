@@ -1,4 +1,17 @@
 █𝙐𝙉𝙄𝙑𝙀𝙍𝙎𝘼𝙇 𝙐𝙋𝘿𝘼𝙏𝙀█
+▓▓▓▓▓▓ 𝙫𝟏.4 ▓▓▓▓▓▓
+
+--Updated BAG Module LOGO 
+--FIXED PING AND DNS ISSUE 
+--Fixed Dolby Atmos Conflict issue
+--Removed (Disable FSync) due to Conflict with Stratosphere
+--Added Enable Touchboost
+--Added Kill Google Service's 
+Gain slightly Performance and reducing Battery Drain while Gaming.
+--Some various code adjustments and fixes made
+-------------------------
+
+█𝙐𝙉𝙄𝙑𝙀𝙍𝙎𝘼𝙇 𝙐𝙋𝘿𝘼𝙏𝙀█
 ▓▓▓▓▓▓ 𝙫𝟏.𝟑 ▓▓▓▓▓▓
 
 █Added PUBG UNIVERSAL XTREME GRAPHIC SCRIPT
@@ -7,12 +20,12 @@
 █Some Various Bug fixes!
 
 █Combine with PUBG ULTRA AUDIO MODULE
-█Avaiable on @AndroidRootModulesCommunity [Telegram]
+█Avaiable on @AndroidRootModulesCommunity @Telegram
 
-━━━━━━━━━━━━━━━━
+-------------------------
 
 █𝙐𝙉𝙄𝙑𝙀𝙍𝙎𝘼𝙇 𝙐𝙋𝘿𝘼𝙏𝙀█
-▓▓▓▓▓▓ 𝐯𝟏.𝟐 ▓▓▓▓▓▓
+▓▓▓▓▓▓ 𝙫𝟏.2 ▓▓▓▓▓▓
 
 █Various Tweaks for Stability
 
@@ -22,11 +35,11 @@
 
 █Added some new Props for AimAssist and BulletRegister!
 
-━━━━━━━━━━━━━━━━
+-------------------------
 
 
 █𝙐𝙉𝙄𝙑𝙀𝙍𝙎𝘼𝙇 𝙐𝙋𝘿𝘼𝙏𝙀█
-▓▓▓▓▓▓ 𝐯𝟏.𝟏 ▓▓▓▓▓▓
+▓▓▓▓▓▓ 𝙫𝟏.𝟏 ▓▓▓▓▓▓
 
 
 █Redesigned Installer
