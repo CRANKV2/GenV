@@ -1,4 +1,10 @@
 █𝙐𝙉𝙄𝙑𝙀𝙍𝙎𝘼𝙇 𝙐𝙋𝘿𝘼𝙏𝙀█
+▓▓▓▓▓▓ 𝙫𝟏.5 ▓▓▓▓▓▓
+HOTFIX
+--Toast Message don't appear when booting.
+Now Toast Pops Up so u can be sure BAG fully working!
+
+█𝙐𝙉𝙄𝙑𝙀𝙍𝙎𝘼𝙇 𝙐𝙋𝘿𝘼𝙏𝙀█
 ▓▓▓▓▓▓ 𝙫𝟏.4 ▓▓▓▓▓▓
 
 --Updated BAG Module LOGO 
