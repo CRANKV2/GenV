@@ -9,7 +9,7 @@
 Magisk Module for Better Bullet Registation,
 Aim Assist & Gyro Delay Fix !
 
-## NEW
+## NEW FEATURES FOR PUBG ALL VERSIONS
 
 • Now Including PUBG Extreme Graphic Script!
 Which is Executable over Termux..
