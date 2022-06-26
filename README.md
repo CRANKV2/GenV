@@ -9,6 +9,17 @@
 Magisk Module for Better Bullet Registation,
 Aim Assist & Gyro Delay Fix !
 
+## NEW
+
+• Now Including PUBG Extreme Graphic Script!
+Which is Executable over Termux..
+su -c PUBGEXTREME
+
+------------------------------
+
+• Incl. New PUBG Ultra Audio .PAK with Auto Installation for ALL Versions and Package Names!
+Installer will Auto detect ur PUBG and install it Automatically!
+
 
 ## Requirements:
 
@@ -19,3 +30,4 @@ Latest Busybox
 Android 9.0+
 
 ## Join Ur Group For More !
+https://t.me/AndroidRootModulesCommunity
