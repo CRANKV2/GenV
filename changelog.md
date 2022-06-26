@@ -1,5 +1,13 @@
 █𝙐𝙉𝙄𝙑𝙀𝙍𝙎𝘼𝙇 𝙐𝙋𝘿𝘼𝙏𝙀█
 ▓▓▓▓▓▓ 𝙫𝟏.6 ▓▓▓▓▓▓
+▌HOTFIX ▌
+
+• Found an Issue on Updated version(forgot adding a file, what caused some lags ingame)
+
+▌FIXED NOW! ▌
+
+█𝙐𝙉𝙄𝙑𝙀𝙍𝙎𝘼𝙇 𝙐𝙋𝘿𝘼𝙏𝙀█
+▓▓▓▓▓▓ 𝙫𝟏.6 ▓▓▓▓▓▓
 
 ▌Added PUBG ALL VERSIONS Ultra Audio Feature!
 
