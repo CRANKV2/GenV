@@ -1,10 +1,10 @@
 █𝙐𝙉𝙄𝙑𝙀𝙍𝙎𝘼𝙇 𝙐𝙋𝘿𝘼𝙏𝙀█
 ▓▓▓▓▓▓ 𝙫𝟏.6 ▓▓▓▓▓▓
--Added PUBG ALL VERSIONS Ultra Audio Feature!
+• Added PUBG ALL VERSIONS Ultra Audio Feature!
 Auto detect ur PUBG package and inflate ur audio .pak file!
--Reworked PUBG Extreme Graphic Script!
--Some adjustments in installer and tweaks made!
--Changed module Name. Just check urself..
+• Reworked PUBG Extreme Graphic Script!
+• Some adjustments in installer and tweaks made!
+• Changed module Name. Just check urself..
 
 
 
