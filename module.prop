@@ -1,9 +1,9 @@
 id=BulletAimGyro
 name=𝙎𝙏𝙍𝘼𝙏𝙊𝙎𝙋𝙃𝙀𝙍𝙀 - 𝘽𝘼𝙂
 version=v1.6
-versionCode=78
+versionCode=79
 author=CRANKV2
-description=BulletRegister/Aim Assist/GyroDelayFixer  for [A9 - A12/L] Without Touching Any Game Data!! +PUBG ExtremeGraphic/UltraAudio ( UNIVERSAL ) 
+description=BulletRegister/Aim Assist/GyroDelayFixer  for [A9 - A12/L] Without Touching Any Game Data!! ( UNIVERSAL ) 
 support=https://t.me/AndroidRootModulesCommunity
 minMagisk=20300
 updateJson=https://raw.githubusercontent.com/CRANKV2/BAG/main/module.json
