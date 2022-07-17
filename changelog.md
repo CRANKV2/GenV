@@ -1,3 +1,6 @@
+# v1.7 (82)
+- Fixed Script Initialized Toast!
+-------------------------
 # v1.7 (81)
 - Reworked Script
 -------------------------
