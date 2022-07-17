@@ -1,3 +1,6 @@
+# v1.7 (81)
+- Reworked Script
+-------------------------
 # v1.7 New Mixture
 - Name Changed! BAG is now a Part of STRP Family!
 - Completly Reworked BAG Code!
