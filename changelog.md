@@ -1,7 +1,10 @@
-# v1.7 (82)
-- Fixed Script Initialized Toast!
+# v1.7 (83)
+- Reworked Script
+- Some Members of Group said that Games ex. CODM - PUBG and others... wont open anymore after flashing and reboot..
+- Hope this Reworked Script and UPDATE will help u guys ⚡️
+- Changed MinMagisk Support to 24300 - Magisk 24.3 Required!
 -------------------------
-# v1.7 (81)
+# v1.7 (82)
 - Reworked Script
 -------------------------
 # v1.7 New Mixture
