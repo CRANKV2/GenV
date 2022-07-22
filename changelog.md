@@ -1,3 +1,8 @@
+# v1.7 (84)
+- ADDED LOG File!
+- U Can Find It Into ..
+- LOG = /sdcard/.STRP/STRPxBAG.log
+-------------------------
 # v1.7 (83)
 - Reworked Script
 - Some Members of Group said that Games ex. CODM - PUBG and others... wont open anymore after flashing and reboot..
