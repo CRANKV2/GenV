@@ -1,3 +1,13 @@
+# v1.8 (100)
+- Reworked Code 
+- Adjusted Values
+- Changed Sleep timer to 85
+- Script Initialize Itself after 85 sec. / after Boot!
+- Gyroscope Value is untouched.
+- Added / Removed Props for better Stability
+- Added New Notification Method, u will see it.
+- Enjoy the Best & New Aim Assist & Bullet Register Version By Stratosphere!
+-------------------------
 # v1.7 (84)
 - ADDED LOG File!
 - U Can Find It Into ..

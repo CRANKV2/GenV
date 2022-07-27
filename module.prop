@@ -1,9 +1,10 @@
 id=BulletAimGyro
 name=𝙎𝙏𝙍𝙋 𝙭 𝘽𝘼𝙂
-version=v1.7
-versionCode=84
+version=v1.8
+versionCode=100
 author=CRANKV2
-description=▌BulletRegister ▌Aim Assist ▌GyroDelayFixer ▌For [A9 ▰ A12/L] ▌Without Touching Any Game Data! ▌( UNIVERSAL ) ▌ 
+description=▌BulletRegister ▌Aim Assist ▌GyroDelayFixer ▌Without Touching Any Game Data! ▌UNIVERSAL ▌ 
 support=https://t.me/AndroidRootModulesCommunity
 minMagisk=24300
+donate=https://www.paypal.com/donate/?hosted_button_id=ZYR8QRKTJ9NPU
 updateJson=https://raw.githubusercontent.com/CRANKV2/BAG/main/module.json
