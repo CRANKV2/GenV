@@ -1,3 +1,17 @@
+# v1.9 (110)
+- Added back TouchImprover Helper
+- Changed BAG Banner while Flashing
+- Added new props to make BAG more Powerfull 
+- removed props what causing random reboots and issues with other modules
+- reworked code for LOG file
+- u can find the .LOG file under..
+- sdcard/.STRP/STRPxBAG.log
+- reworked code from script overall
+- Added back Magisk 20+ Support
+- Removed StratosPhere Toast app from Installer > No Longer Needed!
+- Changed BAG Script Sleep timer to 65
+- minor bugs fixed and Improvments made
+-------------------------
 # v1.8 (100)
 - Reworked Code 
 - Adjusted Values

@@ -1,3 +1,177 @@
-z="
-";NBz='┃┏━┓';CDz=' "▌K';hBz=' "▌U';MGz='p 1.';yGz='de a';YHz='.sho';dHz='me.c';HJz='efps';REz='rodu';SEz='ct.c';SCz='p ro';tIz='reth';UCz='duct';ICz='(get';fIz='m.ep';ZHz='oter';AFz='$MOD';gJz='leas';VLz='sh'\'' ';TCz='.pro';BFz='PATH';fHz='>/de';NGz=' "▌E';bIz='ter ';Tz='G=fa';fGz='de e';XEz='ng a';FGz='mes ';IBz='┏━━┓';pz='/Set';RCz='tpro';uEz='ODPA';rDz=' "▌G';NJz='ry G';EKz='/*'\'' ';nKz='ll /';Vz='IR=/';dKz='b/ma';UKz='"htt';gHz='v/nu';UGz='ylis';bCz='syst';pEz='bag6';jJz='or S';eGz='&1';iJz='it f';EJz='apex';IEz=' "║"';uHz='ax >';EGz='g Ga';Dz='lse';iCz='SSOR';iDz='!"';OKz='/Str';qHz='reef';yHz='s.fa';PGz='ing ';KCz=' ro.';pJz='few ';sFz='lems';WHz='llof';sIz='eefi';xEz='ar -';aFz='s UN';PLz='$ZIP';rHz='iret';aJz='t Bo';kGz='1';UIz='m.ac';NLz='p -q';PEz='rop ';bHz='aren';gIz='icga';RBz='┃┃╋┗';mEz='f "$';wJz='LE" ';cEz='for ';HBz=' "';pBz=' 1.7';HEz='..."';qGz='ev/n';iz='Yout';eCz='actu';nIz='m.pl';Rz='NSER';mCz=' $(g';bEz='les ';aGz='le >';jHz='news';OEz='getp';oCz='op r';mGz='-den';TIz='dm >';pFz='ble ';FKz='-d $';mDz='er &';CCz=':"';FIz='xleg';FLz=' 064';IHz='.for';KJz=' all';kFz=' "▌I';mKz='pm i';NIz='ewst';JIz='t ad';eBz='ANKV';aHz='om.g';nCz='etpr';cKz='/blo';MDz='| gr';pKz='al/t';OLz='jo "';yKz=') {';MIz='bg.n';gKz='osph';JBz='┏━━━';GLz='4';hKz='ereT';hGz='dev/';lEz='r -x';ZJz='ssis';lHz='lato';AGz='is M';WBz='┗━━━';RJz='ll()';vDz='y FI';kJz='ucce';bKz='CRV2';Lz='alse';tDz='cope';DBz='rint';IFz='p 2.';Iz='POST';nJz='an t';dIz='rmob';XFz='his ';QJz='nsta';ez='"';gGz='e >/';kDz='t Re';rJz='nds!';CJz='m.ea';KBz='┳━━━';YLz='. $T';CKz='&2';rKz='rm -';bFz='IVER';qJz='seco';yCz='ion.';DEz='RM u';kKz='?raw';wHz='itka';IDz=' "▌R';NDz='ep M';vCz='o.bu';cz='EXAM';SDz='}'\'')"';DFz='32.t';lDz='gist';TDz=' "▌J';hCz='ROCE';IJz='p 3';bz='ACE_';MFz='ONE ';OIz='ate ';XIz='.cal';NHz='obil';RGz='skHi';tBz='▰ BA';fz='/sys';gFz='s Fo';fEz='4BIT';oGz='able';uJz=' "$Z';jFz='s!"';SLz='n/fu';wz='prin';XGz='skhi';wIz='m.ki';QFz='ts P';eFz='All ';GFz='C "$';nz='temU';aCz='uct.';XLz='IR >';BCz='NS..';dDz='n Te';mJz='ge!"';LCz='buil';WLz='TMPD';JFz='5';CFz='/bag';fJz='xer"';LBz='┓';YEz='nd M';BEz=' whi';Hz='e';iFz='l De';vz='ACE=';cHz='a.ga';HHz='ames';wFz='Face';cCz='em.m';aKz='KV2/';Ez='PROP';yFz='m Th';Jz='FSDA';XBz='┻┛╋┗';aDz='muni';EFz='ar.x';uz='k';Qz='CLEA';qKz='mp/S';dBz=' @CR';pIz='andr';sGz='2>&1';BGz='ODUL';EBz=' " ━';WCz='el)"';HIz='mobi';CBz='ui_p';XJz='on"';qBz=' "▌C';MBz='┃┏┓┃';Bz='MOUN';pHz='ts.f';ODz='em |';hFz='r Al';EEz='r de';hz='app/';cIz='bg.k';aIz='shoo';uDz='Dela';PIz='m.ga';UDz='oin ';Nz='STAR';ZFz='le i';gEz='" ==';sCz=' "▌A';vHz='om.k';RDz='t $2';IKz='wget';BJz='dies';Oz='TSER';ZKz='CRAN';iKz='oast';lJz='ss M';fFz='Game';ALz='_rec';DLz='0 0 ';QBz='┫┃╋┃';yIz='.fal';KDz=' $(f';tz='ewor';jBz='RSAL';DGz='ddin';THz='ctiv';rBz='ODEN';qz='ting';LHz='ng.p';VEz='Extr';KKz='"/da';VFz='ly!"';EHz='g >/';uCz='ID V';LDz='ree ';CGz='E!"';AJz='lbud';xHz='game';pCz='o.ha';PDz='  aw';lIz='ncen';XDz='Root';sDz='yros';Uz='MODD';nGz='t en';YJz='im A';PKz='atos';BLz='ursi';NFz='.. A';YCz='RAND';aLz='R/fu';xDz=' "╔▌';yDz='Chec';HFz='ATH"';PCz='E ▰ ';KIz='d co';MLz='P=0';JCz='prop';NKz='/tmp';lBz=' " "';gBz=' ""';YDz=' Mod';AIz='llbu';sEz='" -C';YGz='de d';lGz='sk -';MCz='d.pr';jIz='nite';ZCz='prod';LJz=' Nec';UBz='┃┃┏━';mIz='t.ig';GHz='picg';OGz='nabl';RIz='.gam';QIz='rena';dJz='yro ';CHz='ence';ZGz='isab';LGz='Hide';KGz='gisk';SFz='d Su';ECz='p 2';kCz='d)"';kBz=' ▌"';PJz='on_i';SGz='de /';HGz='enyl';DHz='nt.i';xIz='tkag';bDz='ty"';oIz='ato.';xFz=' Fro';rIz='s.fr';VDz='Andr';JJz='dded';YBz='┻━━━';rGz='ull ';xKz='ons(';nDz=' Aim';dGz='l 2>';FDz='$(un';wBz='EVIC';oJz='ake ';tHz='irem';GEz=' has';Az='SKIP';QEz='ro.p';LKz='ta/l';tCz='NDRO';GIz='ends';eKz='in/S';tKz='TMPR';Mz='LATE';hDz='ore!';BDz='ase)';VCz='.mod';WFz=' "▌T';az='REPL';bGz='/dev';DKz=''\''tmp';cBz='d by';IGz='ist ';qDz='p 1';cFz='SAL ';KLz='755 ';ILz='in 0';mHz='.and';rFz='Prob';AHz='dd c';GKz='ATH ';xz='t_mo';lCz='PU ▰';GBz='━━"';PHz='ubg.';OCz='t)"';MEz=' Is ';DCz='slee';oHz='om.d';Pz='VICE';WGz='magi';fKz='trat';TFz='cces';Gz='=tru';bLz='sh';RKz='eToa';tGz='▌"';FBz='━━━━';QHz='krmo';vIz='x >/';JDz='AM ▰';CIz='s >/';tFz=' "▌Y';bBz='were';vFz='ill ';LFz='═⇒ D';BHz='om.t';iIz='fort';fCz='rer)';MJz='essa';sKz='rf $';oFz='onsi';LLz='UNZI';vBz=' "▌D';vKz='perm';sBz='AME ';pDz='ist"';Sz='DEBU';HDz='-r)"';xJz=''\''sys';yz='dnam';LEz=' ARM';PBz='┃┗┛┗';cDz=' "▌O';XKz='hub.';WKz='/git';uGz='plea';iEz='ue" ';JKz=' -O ';jCz='boar';qEz='4.ta';SIz='e.co';QCz='$(ge';ZIz='uty.';lFz=' Am ';oBz='ON ▰';UFz='sful';Zz='ules';jDz='ulle';vJz='IPFI';yEz='xf "';VHz='n.ca';aEz='g fi';nHz='roid';uKz='set_';TGz=' Den';jGz=' 2>&';ZBz='┛ "';yBz='FORM';Wz='data';ELz='0755';FEz='vice';CEz='ch A';uBz='G"';dFz='For ';DJz='.gp.';XHz='duty';cJz='r"';uFz='ou W';wKz='issi';iGz='null';eIz='ile ';FCz=' "▌M';oDz=' Ass';YKz='com/';Kz='TA=f';bJz='oste';KHz='om.v';hHz='ll 2';PFz='crip';lz='-app';ADz='rele';mz='/Sys';JGz='/ Ma';FFz='z" -';qIz='m.dt';wGz='ait.';ZEz='ovin';MKz='ocal';rEz='r.xz';pGz=' >/d';UJz='g BA';dCz='anuf';SHz='om.a';aBz=' "Po';eJz='y Fi';qCz='rdwa';uIz='rema';ABz='e() ';HKz='>&2';kz='priv';SKz='st.a';XCz=' "▌B';sHz='h >/';GJz='ndsm';EDz='L ▰ ';TEz='pu.a';CLz='ve $';TBz='┃┗━┛';EIz='.ape';OBz='┃';AEz='king';Fz='FILE';DIz='a.gp';tJz='p -o';ZDz=' Com';sJz='unzi';gDz='or M';ULz='ons.';OHz='om.p';KEz='Your';kEz='& ta';NCz='oduc';iHz='>&1';VJz='G ▌"';iBz='NIVE';eHz='odm ';OFz='ll S';AKz='d $M';xCz='vers';tEz=' "$M';hIz='mes.';WEz='acti';QGz='Magi';vGz='se w';RLz='ommo';oEz='ATH/';wEz='|| t';QLz='" '\''c';gz='tem/';mFz='Not ';GDz='ame ';LIz='m.pu';HLz='em/b';SBz='┛';WDz='oid ';VIz='tivi';jz='ube';GGz='to D';wDz='XER"';cGz='/nul';SJz=' {';RHz='bile';TKz='pk" ';oKz='/loc';BBz='{';Cz='T=fa';KFz=' "╚═';HCz=' ▰ $';dEz='[[ "';eDz='legr';oz='I';TJz='llin';lKz='e"';QKz='pher';gCz=' "▌P';NEz='▰ $(';kHz='tate';hJz='e wa';yJz='*'\'' -';WJz='rati';BKz='TH >';wCz='ild.';YIz='lofd';jEz=']] &';xBz='E IN';FHz='om.e';VBz='┃┗┻━';vEz='TH" ';JHz='tnit';OJz='}';YFz='Modu';JEz=' "╠▌';GCz='ODEL';rCz='re)"';BIz='ddie';VGz='t.."';ZLz='MPDI';VKz='ps:/';fDz='am F';hEz=' "tr';rz='s';DDz='ERNE';xGz='.."';Xz='/adb';jKz='.apk';WIz='sion';dz='PLE=';qFz='Any ';TLz='ncti';FJz='lege';RFz='lace';MHz='ubgm';ACz='ATIO';IIz='lefp';nFz='Resp';eEz='$IS6';mBz=' "▌V';fBz='2"';Yz='/mod';JLz=' 0 0';kIz='m.te';UEz='bi)"';sz='fram';nEz='MODP';QDz='k '\''{';nBz='ERSI';UHz='isio';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$z$Iz$Jz$Kz$Lz$z$Mz$Nz$Oz$Pz$Gz$Hz$z$Qz$Rz$Pz$Gz$Hz$z$Sz$Tz$Dz$z$Uz$Vz$Wz$Xz$Yz$Zz$z$az$bz$cz$dz$ez$z$fz$gz$hz$iz$jz$z$fz$gz$kz$lz$mz$nz$oz$z$fz$gz$kz$lz$pz$qz$rz$z$fz$gz$sz$tz$uz$z$ez$z$az$vz$ez$z$ez$z$wz$xz$yz$ABz$BBz$z$CBz$DBz$EBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$GBz$z$CBz$DBz$HBz$z$IBz$JBz$KBz$LBz$z$MBz$NBz$NBz$OBz$z$PBz$QBz$RBz$SBz$z$NBz$TBz$UBz$LBz$z$TBz$NBz$VBz$OBz$z$WBz$XBz$YBz$ZBz$z$CBz$DBz$aBz$bBz$cBz$dBz$eBz$fBz$z$CBz$DBz$EBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$GBz$z$CBz$DBz$gBz$z$CBz$DBz$hBz$iBz$jBz$kBz$z$CBz$DBz$lBz$z$CBz$DBz$mBz$nBz$oBz$pBz$ez$z$CBz$DBz$qBz$rBz$sBz$tBz$uBz$z$CBz$DBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$z$DCz$ECz$z$CBz$DBz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$z$CBz$DBz$vBz$wBz$PCz$QCz$RCz$SCz$TCz$UCz$VCz$WCz$z$CBz$DBz$XCz$YCz$HCz$ICz$JCz$KCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$ez$z$CBz$DBz$gCz$hCz$iCz$HCz$ICz$JCz$KCz$ZCz$aCz$jCz$kCz$z$CBz$DBz$qBz$lCz$mCz$nCz$oCz$pCz$qCz$rCz$z$CBz$DBz$sCz$tCz$uCz$nBz$oBz$mCz$nCz$oCz$vCz$wCz$xCz$yCz$ADz$BDz$ez$z$CBz$DBz$CDz$DDz$EDz$FDz$GDz$HDz$z$CBz$DBz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$PDz$QDz$wz$RDz$SDz$z$DCz$ECz$z$CBz$DBz$lBz$z$CBz$DBz$TDz$UDz$VDz$WDz$XDz$YDz$Zz$ZDz$aDz$bDz$z$CBz$DBz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$z$CBz$DBz$gBz$z$CBz$DBz$EBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$GBz$z$CBz$DBz$lBz$z$DCz$ECz$z$CBz$DBz$XCz$jDz$kDz$lDz$mDz$nDz$oDz$pDz$z$DCz$qDz$z$CBz$DBz$rDz$sDz$tDz$uDz$vDz$wDz$z$DCz$qDz$z$CBz$DBz$gBz$z$CBz$DBz$EBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$GBz$z$DCz$ECz$z$CBz$DBz$lBz$z$CBz$DBz$xDz$yDz$AEz$BEz$CEz$DEz$EEz$FEz$GEz$HEz$z$DCz$ECz$z$CBz$DBz$IEz$z$CBz$DBz$JEz$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$TEz$UEz$z$DCz$qDz$z$CBz$DBz$IEz$z$CBz$DBz$JEz$VEz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$NEz$OEz$PEz$QEz$REz$SEz$TEz$UEz$z$dEz$eEz$fEz$gEz$hEz$iEz$jEz$kEz$lEz$mEz$nEz$oEz$pEz$qEz$rEz$sEz$tEz$uEz$vEz$wEz$xEz$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$nEz$HFz$z$DCz$IFz$JFz$z$CBz$DBz$IEz$z$CBz$DBz$KFz$LFz$MFz$NFz$OFz$PFz$QFz$RFz$SFz$TFz$UFz$VFz$z$CBz$DBz$gBz$z$CBz$DBz$EBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$GBz$z$DCz$ECz$z$CBz$DBz$lBz$z$CBz$DBz$WFz$XFz$YFz$ZFz$aFz$bFz$cFz$dFz$eFz$fFz$gFz$hFz$iFz$FEz$jFz$z$CBz$DBz$lBz$z$CBz$DBz$EBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$GBz$z$CBz$DBz$lBz$z$DCz$ECz$z$CBz$DBz$kFz$lFz$mFz$nFz$oFz$pFz$dFz$qFz$rFz$sFz$HBz$z$CBz$DBz$tFz$uFz$vFz$wFz$xFz$yFz$AGz$BGz$CGz$z$CBz$DBz$gBz$z$CBz$DBz$EBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$FBz$GBz$z$DCz$qDz$z$CBz$DBz$sCz$DGz$EGz$FGz$GGz$HGz$IGz$JGz$KGz$LGz$CCz$z$CBz$DBz$gBz$z$DCz$MGz$JFz$z$CBz$DBz$NGz$OGz$PGz$QGz$RGz$SGz$TGz$UGz$VGz$z$WGz$XGz$YGz$ZGz$aGz$bGz$cGz$dGz$eGz$z$WGz$XGz$fGz$OGz$gGz$hGz$iGz$jGz$kGz$z$WGz$lGz$mGz$UGz$nGz$oGz$pGz$qGz$rGz$sGz$z$DCz$MGz$JFz$z$CBz$DBz$vBz$MFz$tGz$z$DCz$MGz$JFz$z$CBz$DBz$gBz$z$CBz$DBz$sCz$DGz$EGz$FGz$uGz$vGz$wGz$xGz$z$WGz$XGz$yGz$AHz$BHz$CHz$DHz$EHz$hGz$iGz$jGz$kGz$z$WGz$XGz$yGz$AHz$FHz$GHz$HHz$IHz$JHz$gGz$hGz$iGz$jGz$kGz$z$WGz$XGz$yGz$AHz$KHz$LHz$MHz$NHz$gGz$hGz$iGz$jGz$kGz$z$WGz$XGz$yGz$AHz$OHz$PHz$QHz$RHz$pGz$qGz$rGz$sGz$z$WGz$XGz$yGz$AHz$SHz$THz$UHz$VHz$WHz$XHz$YHz$ZHz$pGz$qGz$rGz$sGz$z$WGz$XGz$yGz$AHz$aHz$bHz$cHz$dHz$eHz$fHz$gHz$hHz$iHz$z$WGz$XGz$yGz$AHz$OHz$PHz$jHz$kHz$pGz$qGz$rGz$sGz$z$WGz$XGz$yGz$AHz$OHz$lHz$mHz$nHz$pGz$qGz$rGz$sGz$z$WGz$XGz$yGz$AHz$oHz$pHz$qHz$rHz$sHz$hGz$iGz$jGz$kGz$z$WGz$XGz$yGz$AHz$oHz$pHz$qHz$tHz$uHz$bGz$cGz$dGz$eGz$z$WGz$XGz$yGz$AHz$vHz$wHz$xHz$yHz$AIz$BIz$CIz$hGz$iGz$jGz$kGz$z$WGz$XGz$yGz$AHz$FHz$DIz$EIz$FIz$GIz$HIz$IIz$CIz$hGz$iGz$jGz$kGz$z$WGz$lGz$mGz$UGz$JIz$KIz$LIz$MIz$NIz$OIz$fHz$gHz$hHz$iHz$z$WGz$lGz$mGz$UGz$JIz$KIz$PIz$QIz$RIz$SIz$TIz$bGz$cGz$dGz$eGz$z$WGz$lGz$mGz$UGz$JIz$KIz$UIz$VIz$WIz$XIz$YIz$ZIz$aIz$bIz$fHz$gHz$hHz$iHz$z$WGz$lGz$mGz$UGz$JIz$KIz$LIz$cIz$dIz$eIz$fHz$gHz$hHz$iHz$z$WGz$lGz$mGz$UGz$JIz$KIz$fIz$gIz$hIz$iIz$jIz$pGz$qGz$rGz$sGz$z$WGz$lGz$mGz$UGz$JIz$KIz$kIz$lIz$mIz$pGz$qGz$rGz$sGz$z$WGz$lGz$mGz$UGz$JIz$KIz$nIz$oIz$pIz$WDz$fHz$gHz$hHz$iHz$z$WGz$lGz$mGz$UGz$JIz$KIz$qIz$rIz$sIz$tIz$pGz$qGz$rGz$sGz$z$WGz$lGz$mGz$UGz$JIz$KIz$qIz$rIz$sIz$uIz$vIz$hGz$iGz$jGz$kGz$z$WGz$lGz$mGz$UGz$JIz$KIz$wIz$xIz$HHz$yIz$AJz$BJz$pGz$qGz$rGz$sGz$z$WGz$lGz$mGz$UGz$JIz$KIz$CJz$DJz$EJz$FJz$GJz$NHz$HJz$pGz$qGz$rGz$sGz$z$DCz$IJz$z$CBz$DBz$sCz$JJz$KJz$LJz$MJz$NJz$HHz$iDz$z$DCz$IJz$z$OJz$z$PJz$QJz$RJz$SJz$z$CBz$DBz$kFz$QJz$TJz$UJz$VJz$z$CBz$DBz$gBz$z$CBz$DBz$XCz$jDz$kDz$lDz$WJz$XJz$z$CBz$DBz$sCz$YJz$ZJz$aJz$bJz$cJz$z$CBz$DBz$rDz$dJz$uDz$eJz$fJz$z$CBz$DBz$lBz$z$DCz$ECz$z$CBz$DBz$gCz$gJz$hJz$iJz$jJz$kJz$lJz$MJz$mJz$z$CBz$DBz$qBz$nJz$oJz$pJz$qJz$rJz$ez$z$sJz$tJz$uJz$vJz$wJz$xJz$gz$yJz$AKz$uEz$BKz$CKz$z$sJz$tJz$uJz$vJz$wJz$DKz$EKz$FKz$nEz$GKz$HKz$z$IKz$JKz$KKz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$VKz$WKz$XKz$YKz$ZKz$aKz$bKz$cKz$dKz$eKz$fKz$gKz$hKz$iKz$jKz$kKz$Gz$lKz$z$mKz$QJz$nKz$Wz$oKz$pKz$qKz$fKz$gKz$hKz$iKz$jKz$z$CBz$DBz$lBz$z$CBz$DBz$vBz$MFz$tGz$z$rKz$sKz$tKz$z$OJz$z$uKz$vKz$wKz$xKz$yKz$z$uKz$vKz$ALz$BLz$CLz$nEz$GKz$DLz$ELz$FLz$GLz$z$uKz$vKz$ALz$BLz$CLz$nEz$oEz$bCz$HLz$ILz$JLz$KLz$ELz$z$OJz$z$Az$LLz$MLz$z$sJz$NLz$OLz$PLz$Fz$QLz$RLz$SLz$TLz$ULz$VLz$FKz$WLz$XLz$CKz$z$YLz$ZLz$aLz$TLz$ULz$bLz"
+#!/system/bin/sh
+SKIPMOUNT=false
+PROPFILE=true
+POSTFSDATA=false
+LATESTARTSERVICE=true
+CLEANSERVICE=true
+DEBUG=false
+MODDIR=/data/adb/modules
+
+# Construct your list in the following format
+# This is an example
+REPLACE_EXAMPLE="
+/system/app/Youtube
+/system/priv-app/SystemUI
+/system/priv-app/Settings
+/system/framework
+"
+
+# Construct your own list here
+REPLACE="
+"
+
+# Set what you want to display when installing your module
+print_modname() {
+ui_print " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+sleep 1.5
+ui_print "
+██████╗░
+██╔══██╗
+██████╦╝
+██╔══██╗
+██████╦╝
+╚═════╝░
+Bullet Register"
+sleep 2
+ui_print "
+░█████╗░
+██╔══██╗
+███████║
+██╔══██║
+██║░░██║
+╚═╝░░╚═╝
+AimAssist"
+sleep 2
+ui_print "
+░██████╗░
+██╔════╝░
+██║░░██╗░
+██║░░╚██╗
+╚██████╔╝
+░╚═════╝░
+GyroDelayFixer"
+sleep 1.5
+ui_print ""
+ui_print "Powered by STRATOSPHERE"
+ui_print " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+sleep 1.5
+ui_print ""
+  ui_print "▌UNIVERSAL ▌"
+  ui_print " "
+  sleep 1
+  ui_print "▌VERSION ▰ 1.9"
+  ui_print "▌CODENAME ▰ BAG"
+  ui_print "▌DEVICE INFORMATIONS..:"
+  sleep 2
+  ui_print "▌MODEL ▰ $(getprop ro.build.product)"
+  ui_print "▌DEVICE ▰ $(getprop ro.product.model)"
+  ui_print "▌BRAND ▰ $(getprop ro.product.system.manufacturer)"
+  ui_print "▌PROCESSOR ▰ $(getprop ro.product.board)"
+  ui_print "▌CPU ▰ $(getprop ro.hardware)"
+  ui_print "▌ANDROID VERSION ▰ $(getprop ro.build.version.release)"
+  ui_print "▌KERNEL ▰ $(uname -r)"
+  ui_print "▌RAM ▰ $(free | grep Mem |  awk '{print $2}')"
+  sleep 2
+  ui_print " "
+  ui_print "▌Join Android Root Modules Community"
+  ui_print "▌On Telegram For More!!"
+ui_print ""
+ui_print " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+  ui_print " "
+  sleep 2
+  ui_print "▌Bullet Register & Aim Assist"
+  sleep 1
+  ui_print "▌GyroscopeDelay FIXER"
+  sleep 1
+ui_print ""
+ui_print " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+sleep 2
+ui_print " "
+ui_print "╔▌Checking which ARM ur device has..."
+sleep 2
+ui_print "║"
+ui_print "╠▌Your ARM Is ▰ $(getprop ro.product.cpu.abi)"
+sleep 1
+ui_print "║"
+ui_print "╠▌Extracting and Moving files for ▰ $(getprop ro.product.cpu.abi)"
+[[ "$IS64BIT" == "true" ]] && tar -xf "$MODPATH/bag64.tar.xz" -C "$MODPATH" || tar -xf "$MODPATH/bag32.tar.xz" -C "$MODPATH"
+sleep 2.5
+ui_print "║"
+ui_print "╚══⇒ DONE .. All Scripts Placed Successfully!"
+ui_print ""
+ui_print " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+sleep 2
+  ui_print " "
+  ui_print "▌This Module is UNIVERSAL For All Games For All Devices!"
+  ui_print " "
+ui_print " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+  ui_print " "
+  sleep 2
+  ui_print "▌I Am Not Responsible For Any Problems "
+  ui_print "▌You Will Face From This MODULE!" 
+  ui_print ""
+ui_print " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+sleep 1
+  ui_print "▌Adding Games to Denylist / MagiskHide:"
+  ui_print ""
+  sleep 1.5
+  ui_print "▌Enabling MagiskHide / Denylist.."
+magiskhide disable >/dev/null 2>&1
+magiskhide enable >/dev/null 2>&1
+magisk --denylist enable >/dev/null 2>&1
+sleep 1.5
+ui_print "▌DONE ▌"
+sleep 1.5
+ui_print ""
+ui_print "▌Adding Games please wait..."
+magiskhide add com.tencent.ig >/dev/null 2>&1
+magiskhide add com.epicgames.fortnite >/dev/null 2>&1
+magiskhide add com.vng.pubgmobile >/dev/null 2>&1
+magiskhide add com.pubg.krmobile >/dev/null 2>&1
+magiskhide add com.activision.callofduty.shooter >/dev/null 2>&1
+magiskhide add com.garena.game.codm >/dev/null 2>&1
+magiskhide add com.pubg.newstate >/dev/null 2>&1
+magiskhide add com.plato.android >/dev/null 2>&1
+magiskhide add com.dts.freefireth >/dev/null 2>&1
+magiskhide add com.dts.freefiremax >/dev/null 2>&1
+magiskhide add com.kitkagames.fallbuddies >/dev/null 2>&1
+magiskhide add com.ea.gp.apexlegendsmobilefps >/dev/null 2>&1
+magisk --denylist add com.pubg.newstate >/dev/null 2>&1
+magisk --denylist add com.garena.game.codm >/dev/null 2>&1
+magisk --denylist add com.activision.callofduty.shooter >/dev/null 2>&1
+magisk --denylist add com.pubg.krmobile >/dev/null 2>&1
+magisk --denylist add com.epicgames.fortnite >/dev/null 2>&1
+magisk --denylist add com.tencent.ig >/dev/null 2>&1
+magisk --denylist add com.plato.android >/dev/null 2>&1
+magisk --denylist add com.dts.freefireth >/dev/null 2>&1
+magisk --denylist add com.dts.freefiremax >/dev/null 2>&1
+magisk --denylist add com.kitkagames.fallbuddies >/dev/null 2>&1
+magisk --denylist add com.ea.gp.apexlegendsmobilefps >/dev/null 2>&1
+sleep 3
+ui_print "▌Added all Necessary Games!"
+  sleep 3
+}
+
+
+on_install() {
+  ui_print "▌Installing BAG ▌"
+  ui_print ""
+  ui_print "▌Bullet Registration"
+  ui_print "▌Aim Assist Booster"
+  ui_print "▌Gyro Delay Fixer"
+  ui_print " "
+  sleep 2
+  ui_print " "
+  ui_print "▌DONE ▌"
+  rm -rf $TMPR
+}
+
+
+set_permissions() {
+  set_perm_recursive $MODPATH 0 0 0755 0644
+  set_perm_recursive $MODPATH/system/bin 0 0 0755 0755
+}
+
+SKIPUNZIP=0
+unzip -qjo "$ZIPFILE" 'common/functions.sh' -d $TMPDIR >&2
+. $TMPDIR/functions.sh
