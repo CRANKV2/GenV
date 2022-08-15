@@ -14,11 +14,11 @@ Aim Assist & Gyro Delay Fix !
 
 ## Requirements:
 
-Magisk 22.0+
+Magisk 20.0+
 
-Latest Busybox
+Latest Brutal Busybox
 
-Android 9.0+
+Android 10.0+
 
 ## Join Ur Group For More !
 https://t.me/AndroidRootModulesCommunity
