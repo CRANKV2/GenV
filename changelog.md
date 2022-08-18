@@ -1,3 +1,15 @@
+# v1.9 (115) HOTFIX
+- reworked codes
+- fixed touch bugs
+- fixed various bugs
+- fixed random reboot on some devices
+- fixed camera stop working
+- fixed zoom in camera app not worked
+- fixed app crashings
+- assist much more powerful now
+- added back hidden props
+- minor fixes and improvements
+-----
 # v1.9 (110)
 - Added back TouchImprover Helper
 - Changed BAG Banner while Flashing
