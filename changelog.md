@@ -1,3 +1,22 @@
+# v2.0 (120) Hot Update
+- Fixed List ~
+- Touch Size
+- Touch Pressure
+- Touch Scale
+- low/high Treshold
+- Tapslop
+- Draginterval
+- gesturemode
+- orientation/distance
+- Multitouch
+- some minor fixes and adjustments
+- Added ~
+- Performance Tuning (ingame)
+- Competitive mode 
+- Adjusted touch pressure Helper
+- Adjusted touch delay Helper
+- Adjusted Touch orientation Helper
+--------
 # v1.9 (115) HOTFIX
 - reworked codes
 - fixed touch bugs
