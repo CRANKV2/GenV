@@ -1,3 +1,10 @@
+# 2.1 (130) High Protein
+- BAG script has got a big rework
+- fixed prop problems on some devices
+- i tried my best adding universal props to reach every device model
+- several bugs fixed and improvments made
+- BAG module got a high protein Power!
+-------
 # v2.0 (120) Hot Update
 - Fixed List ~
 - Touch Size
