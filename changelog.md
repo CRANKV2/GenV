@@ -1,3 +1,15 @@
+# v2.2 (140)
+- reworked whole BAG Script
+- adjusted touch related props to get max out of it
+- fixed many bugs and issues and conflicts i found
+- improved aim assist and bullet register
+- adjusted gpu related options
+- adjusted hw related options
+- changed some props (go with the time)
+- A13 supported now without problems
+- adjusted log related stuff
+- $StayFast
+--------
 # 2.1 (130) High Protein
 - BAG script has got a big rework
 - fixed prop problems on some devices
