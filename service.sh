@@ -1,5 +1,4 @@
 #!/system/bin/sh
-
 wait_until_login() {
 while [[ `getprop sys.boot_completed` -ne 1 && -d "/sdcard" ]]
 do
@@ -13,7 +12,8 @@ sleep 2
 done
 rm "$test_file"
 }
+
 wait_until_login
 
-sleep 85
+sleep 20
 BAG

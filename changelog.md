@@ -1,3 +1,6 @@
+# v2.2 (145) HOTFIX
+- fixed some important bugs - mentioned by some users.
+-----
 # v2.2 (140)
 - reworked whole BAG Script
 - adjusted touch related props to get max out of it
