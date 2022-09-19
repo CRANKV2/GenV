@@ -1,3 +1,13 @@
+# v2.3 (155)
+- reworked code from script overall
+- Performance Tuning (ingame)
+- Improved Aim Assist (No Hack!)
+- Improved FPS Bullet Register
+- slightly increase Performance and reducing Battery Drain while Gaming.
+- Various Tweaks for Stability
+- shrinked code to execute faster
+- minor bug fixes and improvments
+------
 # v2.2 (145) HOTFIX
 - fixed some important bugs - mentioned by some users.
 -----
@@ -33,7 +43,6 @@
 - Multitouch
 - some minor fixes and adjustments
 - Added ~
-- Performance Tuning (ingame)
 - Competitive mode 
 - Adjusted touch pressure Helper
 - Adjusted touch delay Helper
@@ -59,7 +68,6 @@
 - reworked code for LOG file
 - u can find the .LOG file under..
 - sdcard/.STRP/STRPxBAG.log
-- reworked code from script overall
 - Added back Magisk 20+ Support
 - Removed StratosPhere Toast app from Installer > No Longer Needed!
 - Changed BAG Script Sleep timer to 65
@@ -122,8 +130,7 @@
 - Fixed Dolby Atmos Conflict issue
 - Removed (Disable FSync) due to Conflict with Stratosphere
 - Added Enable Touchboost
-- Added Kill Google Service's 
-- Gain slightly Performance and reducing Battery Drain while Gaming.
+- Added Kill Google Service's
 - Some various code adjustments and fixes made
 -------------------------
 # v1.3
@@ -134,7 +141,6 @@
 - Avaiable on @AndroidRootModulesCommunity @Telegram
 -------------------------
 # v1.2
-- Various Tweaks for Stability
 - Added new Toast app from Stratosphere v2.0
 - Fixed issues on some Devices to work Properly (Universal!)
 - Added some new Props for AimAssist and BulletRegister!
