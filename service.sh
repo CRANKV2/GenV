@@ -15,5 +15,5 @@ rm "$test_file"
 
 wait_until_login
 
-sleep 20
+sleep 25
 BAG

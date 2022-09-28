@@ -1,10 +1,19 @@
+# v2.4 (180)
+- Did new BAG Logo
+- Improved Overall Module!
+- Several user bugs fixed & Improvments made
+- Script Inject after 25 sec.
+- Reworked & Adjusted Code
+- Adjusted gpu & hw related options
+- Various Tweaks for Stability
+- Reworked Touch Improver
+-------
 # v2.3 (155)
 - reworked code from script overall
 - Performance Tuning (ingame)
 - Improved Aim Assist (No Hack!)
 - Improved FPS Bullet Register
 - slightly increase Performance and reducing Battery Drain while Gaming.
-- Various Tweaks for Stability
 - shrinked code to execute faster
 - minor bug fixes and improvments
 ------
