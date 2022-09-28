@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/AndroidRootModulesCommunity"><img src="https://i.imgur.com/MLAhNAU.png" width="500"></a></p>  
+<p align="center"><a href="https://t.me/AndroidRootModulesCommunity"><img src="https://i.imgur.com/aKpC909.png" width="500"></a></p>  
 
  <h1 align="center"><b> BAG </b></h1> 
 
