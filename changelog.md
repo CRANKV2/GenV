@@ -1,19 +1,28 @@
+# v2.5 (200)
+- reqorked script (again)
+- many improvments made
+- adjusted alot of tweaks and props to get most out of aim assist
+- decreased various slops for a better bullet registration
+- increased several props for better stability also while using BAG stand alone
+- log file now stored into /Android folder!
+- Reworked Touch Improver
+- slightly increase Performance and reducing Battery Drain while Gaming (again)
+- Adjusted gpu & hw related options
+- minor fixes and improvements
+--------
 # v2.4 (180)
 - Did new BAG Logo
 - Improved Overall Module!
 - Several user bugs fixed & Improvments made
 - Script Inject after 25 sec.
 - Reworked & Adjusted Code
-- Adjusted gpu & hw related options
 - Various Tweaks for Stability
-- Reworked Touch Improver
 -------
 # v2.3 (155)
 - reworked code from script overall
 - Performance Tuning (ingame)
 - Improved Aim Assist (No Hack!)
 - Improved FPS Bullet Register
-- slightly increase Performance and reducing Battery Drain while Gaming.
 - shrinked code to execute faster
 - minor bug fixes and improvments
 ------
