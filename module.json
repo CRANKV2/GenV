@@ -1,6 +1,6 @@
 {
-  "versionCode": 200,
-  "version": "v2.5",
+  "versionCode": 220,
+  "version": "v2.6",
   "zipUrl": "https://github.com/CRANKV2/BAG/releases/download/latest/BAG.zip",
   "changelog": "https://raw.githubusercontent.com/CRANKV2/BAG/main/changelog.md"
  }

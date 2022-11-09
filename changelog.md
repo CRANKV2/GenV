@@ -1,3 +1,18 @@
+# v2.6 (220)
+- A13 support (fixed lags)
+- Adjusted injector
+- script is now more powerfull 
+- improved bullet register
+- improved touch responsive
+- adjusted touch improver
+- several improvments and adjustments made
+- various fixes for better stability
+- slightly decreased battery consumption (usage from script itself)
+- fixed code typo which caused random reboots on some devices
+- Still magisk 20+ support (please try updating magisk in the next time)
+- adjusted Treshold, TapSlop, orientation and many more..
+- several bugs fixed and improvments made
+-------
 # v2.5 (200)
 - reqorked script (again)
 - many improvments made
