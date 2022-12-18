@@ -1,3 +1,14 @@
+# v2.7 (230)
+- Fully A13 Support
+- Highly Improved Bullet Register & Aim Assist
+- Moved logs into /sdcard/#STRP Folder
+- BAG will auto execute and injecting new improvements after Reboot
+- Added Auto Injector
+- Auto Injector will Inject itself after Starting an Game eg. Pubg, codm, apex and so on
+- Auto Injector .log file will get created in the same directory mentioned above
+- several bugs fixed and Improvments made
+- Good Luck Soldier ✊️
+------
 # v2.6 (220)
 - A13 support (fixed lags)
 - Adjusted injector

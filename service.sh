@@ -17,3 +17,4 @@ wait_until_login
 
 sleep 25
 BAG
+autoinject
