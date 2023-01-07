@@ -1,3 +1,13 @@
+# v2.8 (280)
+- Added Auto injector game list file inside /sdcard/#STRP/
+- Paste your Game package names inside this file, line by line !
+- Allowing players to enjoy the benefits of the mod on their mobile devices much user friendlier
+- Improved bullet register for more accurate shots
+- Enhanced aim assist for easier target acquisition
+- Adjusted various settings to optimize performance
+- Fixed various bugs and typos to improve stability and user experience
+- Optimized for bigger device range for a seamless gaming experience
+------
 # v2.7 (230)
 - Fully A13 Support
 - Highly Improved Bullet Register & Aim Assist
