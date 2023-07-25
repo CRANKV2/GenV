@@ -1,3 +1,15 @@
+#STRPxBAG v3.5 Changelogs:
+✨ Enhanced Aim Assist for deadly accuracy! 🎯
+🚀 Improved BulletRegister for precise hits! 💥
+🔄 Optimized GyroDelayFixer for seamless control! 🛡️
+🔧 Fine-tuned Performance for smoother gameplay! 🚀
+🔥 Boosted RAM Management for lightning-fast response! ⚡
+📁 Logs & Backups now stored in /sdcard/#STRP/BAG 🗄️
+
+Join the STRPxBAG community at t.me/AndroidRootModulesCommunity
+Unleash the power of v3.5 and conquer the gaming realm! 💪😎
+
+--------
 # v2.8 (280)
 - Added Auto injector game list file inside /sdcard/#STRP/
 - Paste your Game package names inside this file, line by line !

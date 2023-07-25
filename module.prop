@@ -1,9 +1,9 @@
 id=BulletAimGyro
 name=STRP ✪ BAG
-version=v2.8
-versionCode=280
+version=v3.5
+versionCode=354
 author=CRANKV2
-description=BulletRegister | Aim Assist | GyroDelayFixer | Without Touching Any Game Data! | Auto Injector Runs After You Start Game Application! | Logs & Game Package file stored under /sdcard/#STRP !
+description=🎮 Master Your Game with STRPxBAG! 💪 | 💥 BulletRegister | 🎯 Aim Assist | 🔄 GyroDelayFixer | 🛡️ Game Data Safe! | 🚀 Auto Injector on Game Start! | 🗄️ Logs & Game Package Config: /sdcard/#STRP/BAG 📁
 support=https://t.me/AndroidRootModulesCommunity
 minMagisk=20000
 donate=https://www.paypal.com/donate/?hosted_button_id=ZYR8QRKTJ9NPU
