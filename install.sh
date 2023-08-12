@@ -59,7 +59,7 @@ ui_print ""
   ui_print "▌UNIVERSAL ▌"
   ui_print " "
   sleep 1
-  ui_print "▌VERSION ▰ v3.5"
+  ui_print "▌VERSION ▰ v4.0"
   ui_print "▌CODENAME ▰ BAG"
   ui_print "▌DEVICE INFORMATIONS..:"
   sleep 2
@@ -87,11 +87,11 @@ ui_print " ━━━━━━━━━━━━━━━━━━━━━━━
   sleep 1
   ui_print "▌BAG Auto Injector will run in the Background and start injecting after Opening a Game !"
   sleep 1
-  ui_print "▌Check Main BAG .log under ~ /storage/emulated/0/#STRP/BAG/STRPxBAG.log"
+  ui_print "▌Check Main BAG .log under ~ /data/adb/modules/BulletAimGyro/STRPxBAG.log"
   sleep 1
-  ui_print "▌Check BAG Injector .log after Running a Game under ~ /storage/emulated/0/#STRP/BAG/bag-injector.log"
+  ui_print "▌Check BAG Injector .log after Running a Game under ~ /data/adb/modules/BulletAimGyro/bag-injector.log"
   sleep 1
-  ui_print "▌Paste Game Packages line by line inside ~ /storage/emulated/0/#STRP/BAG/bag_injector_games_list.txt"
+  ui_print "▌Paste Game Packages line by line inside ~ /data/adb/modules/BulletAimGyro/bag_injector_games_list.txt"
   sleep 1
 ui_print ""
 ui_print " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"

@@ -16,5 +16,5 @@ rm "$test_file"
 wait_until_login
 
 sleep 10
-BAG
-autoinject
+BAG &
+injector &

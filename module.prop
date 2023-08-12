@@ -1,9 +1,9 @@
 id=BulletAimGyro
-name=STRP ✪ BAG
-version=v3.5
-versionCode=354
+name=STRP ✗ BAG
+version=v4.0
+versionCode=400
 author=CRANKV2
-description=🎮 Master Your Game with STRPxBAG! 💪 | 💥 BulletRegister | 🎯 Aim Assist | 🔄 GyroDelayFixer | 🛡️ Game Data Safe! | 🚀 Auto Injector on Game Start! | 🗄️ Logs & Game Package Config: /sdcard/#STRP/BAG 📁
+description=🎮 Master Your Game with STRPxBAG! 💪 | 💥 BulletRegister | 🎯 Aim Assist | 🔄 GyroDelayFixer | 🛡️ Game Data Safe! | 🚀 Auto Injector on Game Start! | 🗄️ Logs & Game Package Config: /data/adb/modules/BulletAimGyro 📁
 support=https://t.me/AndroidRootModulesCommunity
 minMagisk=20000
 donate=https://www.paypal.com/donate/?hosted_button_id=ZYR8QRKTJ9NPU
