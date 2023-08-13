@@ -59,7 +59,7 @@ ui_print ""
   ui_print "▌UNIVERSAL ▌"
   ui_print " "
   sleep 1
-  ui_print "▌VERSION ▰ v4.0"
+  ui_print "▌VERSION ▰ v4.1"
   ui_print "▌CODENAME ▰ BAG"
   ui_print "▌DEVICE INFORMATIONS..:"
   sleep 2
