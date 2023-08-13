@@ -1,3 +1,9 @@
+# STRPxBAG v4.1 Changelog:
+- since v4.0 Release we haved some problems
+- bumped to v4.1 now with all fixes included
+- everything should be working fine now!
+## Enjoy!
+-------
 # STRPxBAG v4.0 Changelog:
 
 ## Unleash New Heights of Precision!
