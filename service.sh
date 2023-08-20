@@ -17,4 +17,4 @@ wait_until_login
 
 sleep 10
 BAG
-bag_injector
+injector
