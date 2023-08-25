@@ -1,10 +1,10 @@
 # STRPxBAG v4.6 Changelog:
 ## Enhanced notifications:
-- Each notification now has a unique tag to prevent conflicts with other modules' notifications. Notifications won't overwrite each other.
+- Each notification now has a unique `tag` to prevent conflicts with other modules notifications. `Notifications no longer overwrite each other`
 ## Script and Injector Revamp: 
-- The core script inside BAG and the injector have been reworked for improved performance and functionality.
+- The `core script` inside `BAG` and the `injector` have been reworked for improved performance and functionality.
 ## Customized Game List: 
-- The `bag_injector_games_list.txt` is now empty, avoiding unnecessary injections. Users can add package names via the new BAG Manager CLI menu.
+- The `bag_injector_games_list.txt` is now empty, avoiding unnecessary injections. Users can add package names via the new `BAG Manager CLI menu`
 ## Extras:
 - Other optimizations and improvements to enhance the module's overall performance and experience.
 -------
