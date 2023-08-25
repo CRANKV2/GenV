@@ -25,7 +25,7 @@ Android 10.0+
 - Rest assured, this module has been crafted with meticulous care to ensure it will never cause `bootloops`. Your device's `safety` is our `top priority`.
 
 ## Compatibility Note:
-- While our module is designed to work `seamlessly` across a wide range of `Android OS and devices`, please be aware that certain `custom ROMs` or `unique device configurations` may `NOT` experience the same level of impact in-game as others. The `results may vary`, but we're continuously striving to `optimize performance for all users`.
+- While our module is designed to work `seamlessly` across a wide range of `Android OS and devices`, please be aware that certain `custom ROMs` or `unique device configurations` may `NOT` experience the same level of impact as others. The `results may vary`, but we're continuously striving to `optimize performance for all users`.
 
 ## Join Ur Group For More !
 https://t.me/AndroidRootModulesCommunity
