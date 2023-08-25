@@ -1,4 +1,6 @@
 #!/system/bin/sh
+
+
 SKIPMOUNT=false
 PROPFILE=false
 POSTFSDATA=false
@@ -6,6 +8,8 @@ LATESTARTSERVICE=true
 CLEANSERVICE=true
 DEBUG=false
 MODDIR=/data/adb/modules
+
+
 
 # Construct your list in the following format
 # This is an example
@@ -59,8 +63,8 @@ ui_print ""
   ui_print "▌UNIVERSAL ▌"
   ui_print " "
   sleep 1
-  ui_print "▌VERSION ▰ v4.5"
-  ui_print "▌CODENAME ▰ BAG"
+  ui_print "▌VERSION ▰ v4.6"
+  ui_print "▌CODENAME ▰ PPE"
   ui_print "▌DEVICE INFORMATIONS..:"
   sleep 2
   ui_print "▌MODEL ▰ $(getprop ro.build.product)"
@@ -83,12 +87,14 @@ ui_print " ━━━━━━━━━━━━━━━━━━━━━━━
   sleep 1
   ui_print "▌Gyroscope Delay FIXER"
   sleep 1
-  ui_print "▌Touch Improvments will get Injected First time after Reboot Automatically !"
+  ui_print "▌Main BAG will get Injected First time after Reboot Automatically !"
   sleep 1
   ui_print "▌BAG Auto Injector will run in the Background and start injecting after Opening a Game !"
   sleep 1
   ui_print "▌Open The Manager With Termux By Using 'su -c BM'"
   sleep 1
+ui_print "▌Make sure Adding Your Game Package Name Over The Menu!!"
+sleep 1
 ui_print ""
 ui_print " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 sleep 2
