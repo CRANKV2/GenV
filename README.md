@@ -14,6 +14,9 @@
 - [Latest Brutal Busybox](https://t.me/StratosphereCloud/182)
 - Android 10.0+
 
+## Termux Command for the Manager
+`su -c GM`
+
 ## Stability Assurance:
 - Rest assured, this module has been crafted with meticulous care to ensure it will never cause `bootloops`. Your device's `safety` is our `top priority`.
 
