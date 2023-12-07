@@ -11,7 +11,6 @@
 - [Log and Messaging](#log-and-messaging)
 - [Gyro Delay Fix](#gyro-delay-fix)
 - [Miscellaneous](#miscellaneous)
-- [Acknowledgments](#acknowledgments)
 - [Note](#note)
 
 ## General Updates
