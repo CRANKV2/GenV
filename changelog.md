@@ -4,7 +4,7 @@
 - [General Updates](#general-updates)
 - [New Tweaks](#new-tweaks)
 - [Bullet Registration and Aim Assist Enhancements](#bullet-registration-and-aim-assist-enhancements)
-- [BagTweaks](#bagtweaks)
+- [GenVTweaks](#now-genv-tweaks)
 - [Freeram](#freeram)
 - [TouchProps](#touchprops)
 - [DisableLog](#disablelog)
@@ -27,7 +27,7 @@
 - Enhanced aim assist mechanisms for accuracy.
 - Addressed gyro delay issues for responsive controls.
 
-## BagTweaks
+## Now GenV Tweaks
 - Streamlined optimizations for improved performance.
 - Enhanced error handling and reporting.
 - Updated log paths for better tracking.
