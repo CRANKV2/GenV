@@ -1,10 +1,10 @@
-id=BulletAimGyro
-name=STRP ✗ BAG
-version=v4.6
-versionCode=632
-author=@CRANKV2 | TELEGRAM | GITHUB
-description=Level Up Your Gaming with STRPxBAG: Bullet Register, Aim Assist, Gyro Delay Fixer, Game Data Security, Auto Injector on Game Launch, Access Manager: 'su -c BM'
+id=GenV
+name=STRP ✗ GenV
+version=v5.0
+versionCode=732
+author=@STRPxDEVS | TELEGRAM | GITHUB
+description=Level Up Your Gaming with GenV: Bullet Registering, Aim Assisting, Gyro Delay Fixing, Game Data Secure, Auto Injector on Game Launch, Access Manager: 'su -c GM'
 support=https://t.me/AndroidRootModulesCommunity
 minMagisk=20000
 donate=https://www.paypal.com/donate/?hosted_button_id=ZYR8QRKTJ9NPU
-updateJson=https://raw.githubusercontent.com/CRANKV2/BAG/main/module.json
+updateJson=https://raw.githubusercontent.com/CRANKV2/GenV/main/module.json

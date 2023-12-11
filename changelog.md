@@ -55,6 +55,6 @@
 - Conducted extensive testing to validate improvements.
 
 ## Note
-- Users are encouraged to check the [GitHub Repository](https://github.com/CRANKV2/GenV) for the full list of changes and detailed code modifications.
+- Users are encouraged to check the [GitHub Repository](https://github.com/CRANKV2/BAG) for the full list of changes and detailed code modifications.
 
 ------

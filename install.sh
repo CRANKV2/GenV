@@ -29,31 +29,13 @@ print_modname() {
 ui_print " ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 sleep 1.5
 ui_print "
-██████╗░
-██╔══██╗
-██████╦╝
-██╔══██╗
-██████╦╝
-╚═════╝░
-Bullet Register"
-sleep 2
-ui_print "
-░█████╗░
-██╔══██╗
-███████║
-██╔══██║
-██║░░██║
-╚═╝░░╚═╝
-AimAssist"
-sleep 2
-ui_print "
-░██████╗░
-██╔════╝░
-██║░░██╗░
-██║░░╚██╗
-╚██████╔╝
-░╚═════╝░
-GyroDelayFixer"
+
+░██████╗░███████╗███╗░░██╗██╗░░░██╗
+██╔════╝░██╔════╝████╗░██║██║░░░██║
+██║░░██╗░█████╗░░██╔██╗██║╚██╗░██╔╝
+██║░░╚██╗██╔══╝░░██║╚████║░╚████╔╝░
+╚██████╔╝███████╗██║░╚███║░░╚██╔╝░░
+░╚═════╝░╚══════╝╚═╝░░╚══╝░░░╚═╝░░░"
 sleep 1.5
 ui_print ""
 ui_print "Powered by STRATOSPHERE"
@@ -63,8 +45,8 @@ ui_print ""
   ui_print "▌UNIVERSAL ▌"
   ui_print " "
   sleep 1
-  ui_print "▌VERSION ▰ v4.6"
-  ui_print "▌CODENAME ▰ PPE"
+  ui_print "▌VERSION ▰ v5"
+  ui_print "▌CODENAME ▰ Homelander"
   ui_print "▌DEVICE INFORMATIONS..:"
   sleep 2
   ui_print "▌MODEL ▰ $(getprop ro.build.product)"
@@ -87,11 +69,11 @@ ui_print " ━━━━━━━━━━━━━━━━━━━━━━━
   sleep 1
   ui_print "▌Gyroscope Delay FIXER"
   sleep 1
-  ui_print "▌Main BAG will get Injected First time after Reboot Automatically !"
+  ui_print "▌Main GenV will get Injected First time after Reboot Automatically !"
   sleep 1
-  ui_print "▌BAG Auto Injector will run in the Background and start injecting after Opening a Game !"
+  ui_print "▌GenV Auto Injector will run in the Background and start injecting after Opening a Game !"
   sleep 1
-  ui_print "▌Open The Manager With Termux By Using 'su -c BM'"
+  ui_print "▌Open The Manager With Termux By Using 'su -c GM'"
   sleep 1
 ui_print "▌Make sure Adding Your Game Package Name Over The Menu!!"
 sleep 1
@@ -106,7 +88,7 @@ ui_print "╠▌Your ARM Is ▰ $(getprop ro.product.cpu.abi)"
 sleep 1
 ui_print "║"
 ui_print "╠▌Extracting and Moving files for ▰ $(getprop ro.product.cpu.abi)"
-[[ "$IS64BIT" == "true" ]] && tar -xf "$MODPATH/bag64.tar.xz" -C "$MODPATH" || tar -xf "$MODPATH/bag32.tar.xz" -C "$MODPATH"
+[[ "$IS64BIT" == "true" ]] && tar -xf "$MODPATH/genv64.tar.xz" -C "$MODPATH" || tar -xf "$MODPATH/genv32.tar.xz" -C "$MODPATH"
 sleep 2.5
 ui_print "║"
 ui_print "╚══⇒ DONE .. All Scripts Placed Successfully!"
@@ -129,14 +111,11 @@ ui_print " ━━━━━━━━━━━━━━━━━━━━━━━
 
 
 on_install() {
-  ui_print "▌Installing BAG ▌"
+  ui_print "▌Installing GenV ▌"
   ui_print ""
-  ui_print "▌Bullet Registration"
-  ui_print "▌Aim Assist Booster"
-  ui_print "▌Gyro Delay Fixer"
-  ui_print " "
+  ui_print ""
   sleep 2
-  ui_print " "
+  ui_print ""
   ui_print "▌DONE ▌"
   rm -rf $TMPR
 }
