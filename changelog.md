@@ -1,60 +1,40 @@
-# GenV 5 Changelogs:
+# GenV Changelogs:
+## Version 5.21
 
-**Table of Contents**
-- [General Updates](#general-updates)
-- [New Tweaks](#new-tweaks)
-- [Bullet Registration and Aim Assist Enhancements](#bullet-registration-and-aim-assist-enhancements)
-- [GenVTweaks](#now-genv-tweaks)
-- [Freeram](#freeram)
-- [TouchProps](#touchprops)
-- [DisableLog](#disablelog)
-- [Log and Messaging](#log-and-messaging)
-- [Gyro Delay Fix](#gyro-delay-fix)
-- [Miscellaneous](#miscellaneous)
-- [Note](#note)
+### Added
+- Implemented a feature to add games to the GenV Injector Game List.
+- Added a reload option for refreshing the GenV Injector.
+- Introduced the ability to view the current game list.
+- Implemented a game removal feature from the list.
+- Added functionality for backing up the game list.
+- Implemented a restore option for the game list from a backup.
+- Added options to enable and disable the GenV module.
+- Introduced a feature to reset settings to default values.
+- Added a function to display the log file in the terminal.
+- Added a support section providing assistance and information.
+- Implemented a modular structure for better organization.
+- Added GPL-3.0 license to the project.
 
-## General Updates
-- Improved script readability and organization.
-- Added toast notifications for a better user experience.
+### Fixed
+- Resolved issues with game removal not working as expected.
+- some other under the hood changes made
+- fixed several tweaks to keep support on a14
+- improved injector, load into games much faster (avoid detection)
+- so far we have never faced or heard about any bans out there
+- means our module is still safe to use in a high protein way!
 
-## New Tweaks
-- Enhanced Blkio tweak for power management.
-- Introduced UFSTW for improved storage performance.
-- Fine-tuned scheduler parameters for reduced latency.
+### Changed
+- Reworked the menu structure for better user experience.
+- Improved the display of the current game list.
+- reworked several tweaks inside GenV main daemon
+- reworked Injector for faster execution (shorted code, added more variables and functions)
 
-## Bullet Registration and Aim Assist Enhancements
-- Implemented advanced algorithms for precise bullet registration.
-- Enhanced aim assist mechanisms for accuracy.
-- Addressed gyro delay issues for responsive controls.
+### Miscellaneous
+- Spent focused time improving functionality and aesthetics.
+- Created a professional and user-friendly dialog menu.
+- Achieved one of the best small menu structures.
 
-## Now GenV Tweaks
-- Streamlined optimizations for improved performance.
-- Enhanced error handling and reporting.
-- Updated log paths for better tracking.
+## License
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0). See the [LICENSE](https://raw.githubusercontent.com/CRANKV2/GenV/main/LICENSE) file for details.
 
-## Freeram
-- Improved RAM management with Freeram function.
-- Introduced additional tweaks for freeing up more RAM.
-
-## TouchProps
-- Optimized for smoother touch interactions.
-- Improved touch screen calibration and gesture modes.
-
-## DisableLog
-- Enhanced log management and error checking.
-
-## Log and Messaging
-- Updated log messages with humor.
-- Introduced log_with_humor function for fun.
-
-## Gyro Delay Fix
-- Implemented fixes for more responsive gyroscope controls.
-
-## Miscellaneous
-- Ensured complete functionality and compatibility.
-- Conducted extensive testing to validate improvements.
-
-## Note
-- Users are encouraged to check the [GitHub Repository](https://github.com/CRANKV2/BAG) for the full list of changes and detailed code modifications.
-
-------
+-------
