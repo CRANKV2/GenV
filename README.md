@@ -17,6 +17,9 @@
 ## Termux Command for the Manager
 `su -c GM`
 
+# Preview
+<img src=".img/Preview-optimized.gif" alt="Preview" width="500"/>
+
 ## Stability Assurance:
 - Rest assured, this module has been crafted with meticulous care to ensure it will never cause `bootloops`. Your device's `safety` is our `top priority`.
 
