@@ -1,6 +1,9 @@
 # GenV Changelogs:
 ## Version 5.21
 
+# Preview
+<img src=".img/Preview-optimized.gif" alt="Preview" width="500"/>
+
 ### Added
 - Implemented a feature to add games to the GenV Injector Game List.
 - Added a reload option for refreshing the GenV Injector.
