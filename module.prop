@@ -1,9 +1,9 @@
 id=GenV
-name=STRP x GenV
-version=v5.0
-versionCode=732
+name=STRP ✗ GenV
+version=v5.3
+versionCode=944
 author=@STRPxDEVS | TELEGRAM | GITHUB
-description=Level Up Your Gaming with GenV: Bullet Registering, Aim Assisting, Gyro Delay Fixing, Game Data Secure, Auto Injector on Game Launch, Access Manager: 'su -c GM'
+description=Level Up Your Gaming with GenV: Bullet Registering, Aim Assisting, Gyro Delay Fixing, Game Data Secure, Auto Injector on Game Launch, Access NEW Manager Trough Termux: 'su -c GM'
 support=https://t.me/AndroidRootModulesCommunity
 minMagisk=20000
 donate=https://www.paypal.com/donate/?hosted_button_id=ZYR8QRKTJ9NPU
